@@ -2,7 +2,7 @@ OSC library for the Particle (formerly Spark) platform.
 
 ## Examples
 
-EXAMPLES TO GO HERE
+ip-reporter.ino - simple example that reports the devices IP address over OSC
 
 ## Provenance
 
